@@ -25,6 +25,16 @@ This project is built in **Python (Jupyter Notebook / Google Colab)** and levera
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project is publicly available on **Kaggle**.  
+
+<a href="https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset" target="_blank">
+  🔗 Heart Disease UCI Dataset on Kaggle
+</a>
+
+---
+
 ```
 ## 📂 Project Structure
 
@@ -103,10 +113,10 @@ pip install -r requirements.txt
 
 **Waqar Ahmed**  
 
-📧 Email: [waqarahmed786462003@gmail.com](mailto:waqarahmed786462003@gmail.com)  
-🔗 GitHub: [waqar-ahmed-sadhayo](https://github.com/waqar-ahmed-sadhayo)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
-
+📧 Email: <a href="mailto:waqarahmed786462003@gmail.com" target="_blank">waqarahmed786462003@gmail.com</a>  
+🔗 GitHub: <a href="https://github.com/waqar-ahmed-sadhayo" target="_blank">waqar-ahmed-sadhayo</a>  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">Your LinkedIn Profile</a>  
+ 
 ---
 
  

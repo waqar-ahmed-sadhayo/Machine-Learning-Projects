@@ -34,7 +34,7 @@ Heart Disease Predictor/
 │── README.md                        # Project documentation
 │── heart_disease_rf_model.pkl       # Saved Random Forest model
 │── heart_disease_scaler.pkl         # Saved Standard Scaler
-│── data/                            # Dataset 
+│── heart_dataset.csv                # Dataset 
 ```
 ---
 

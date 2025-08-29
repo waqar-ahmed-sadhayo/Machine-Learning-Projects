@@ -85,12 +85,30 @@ pip install -r requirements.txt
 
 ---
 
+## 🛠 Tech Stack & Tools  
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)  
+![Pandas](https://img.shields.io/badge/Pandas-Data--Analysis-150458?logo=pandas)  
+![NumPy](https://img.shields.io/badge/NumPy-Array--Computing-013243?logo=numpy)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557c?logo=plotly)  
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical--Plots-008080)  
+![Joblib](https://img.shields.io/badge/Joblib-Model--Persistence-green)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Free%20GPU-yellow?logo=googlecolab)  
+
+---
+
 ## 👨‍💻 Author
 
 **Waqar Ahmed**  
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 GitHub: [https://github.com/your-username](https://github.com/your-username)  
-🔗 LinkedIn: [https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+📧 Email: [waqarahmed786462003@gmail.com](mailto:waqarahmed786462003@gmail.com)  
+🔗 GitHub: [waqar-ahmed-sadhayo](https://github.com/waqar-ahmed-sadhayo)  
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)  
+
+---
+
+ 
 
 
